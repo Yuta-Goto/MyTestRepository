@@ -1,7 +1,7 @@
 # MyTestRepository
 I'll do anything what I want to try in this repository.
 
-##　参考サイト
+## 参考サイト
 https://qiita.com/mml/items/33633f50db0218c97a82
 一番よく載っている
 
@@ -15,7 +15,7 @@ https://zenn.dev/ginpei/articles/firebase-firestore-emulator
 zennのサイト。概要が分かりやすく書かれている。
 
 
-##　おおまかな手順
+## おおまかな手順
 １．あらかじめ必要なものをインストール：
 ・Node.js バージョン 8.0 以降
 ・Java JDK バージョン 11 以降
