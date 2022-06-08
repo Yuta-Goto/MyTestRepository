@@ -1,5 +1,5 @@
 # MyTestRepository
-I'll do anything what I want to try in this repository.
+
 
 ## 参考サイト
 https://qiita.com/mml/items/33633f50db0218c97a82
@@ -18,7 +18,6 @@ zennのサイト。概要が分かりやすく書かれている。
 
 firebaseの機能をほとんどローカルで実行できるもの！！
 開発の段階から本番用のfirebaseに直接アクセスしてしまうと、データのコンフリクトや設定のミス、セキュリティ面での懸念が考えられる。なので、開発の時はそれぞれがローカルでfirebaseを使えばミスを恐れずにコーディングできる！！
-しかし完全にfirebaseから孤立しているわけではなく、
 
 
 ## おおまかな手順
@@ -79,3 +78,5 @@ i  Writing gitignore file to .gitignore...
 
 ✔  Firebase initialization complete!
 ```
+これ以降の手順はこちらのQiitaに詳しく載っている。
+https://qiita.com/mml/items/33633f50db0218c97a82
