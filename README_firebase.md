@@ -23,8 +23,11 @@ firebaseの機能をほとんどローカルで実行できるもの！！
 ## おおまかな手順
 
 ### １．あらかじめ必要なものをインストール：
+
 ・Node.js バージョン 8.0 以降(nvm(node version manager)を先にインストールしてその経由でインストールするのがおすすめ)
+
 ・Firebase CLI バージョン 8.14.0 以降
+
 上記2つのインストール方法　https://firebase.google.com/docs/cli?hl=ja#install_the_firebase_cli
 
 ・Java JDK バージョン 11 以降
